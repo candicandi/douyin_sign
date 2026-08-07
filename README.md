@@ -18,7 +18,14 @@
  - x_bogus/xbogus.py py实现的x-bogus算法
  - x_bogus/test_xbogus.py 模拟调用python实现的x-bougs算法
 
+## msToken
+	抖音web前端msToken算法实现
 
+### source
+ - msToken/ms_token.py 完整的msToken算法python实现，包含依赖条件
+ - msToken/main.png main.py演示截图
+ - msToken/printlog.png 调用演示输出
+ 
 ## 相关视频：
     https://space.bilibili.com/1332269071
     该视频集，提供完整逆向课程（ab算法，其他算法），同时后续会提供app相关课程
